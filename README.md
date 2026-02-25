@@ -1,16 +1,38 @@
 ## Hi there 👋
 
-<!--
-**Bilal9934/Bilal9934** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Bilal, a Computer Science student passionate about AI and building real-world tech solutions.
 
-Here are some ideas to get you started:
+I enjoy turning ideas into working applications — especially in web and mobile development. If a problem exists, I like breaking it down, designing a solution, and building it properly.
+
+Right now, I'm focused on improving my skills in AI-integrated applications and scalable mobile development.
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+ AI-powered web & mobile projects
+ 
+Improving my Flutter and Python expertise
+
+Exploring startup ideas and tech innovation
+
+Building projects that solve practical problems
+
+- 🛠 Tech Stack
+  
+Flutter & Dart
+
+Python & JavaScript
+
+Firebase & MySQL.
+
+
+- 💻 Tools I Use
+
+Android Studio
+
+Visual Studio Code
+
+PyCharm
+
+Cursor
+
+Antigravity
